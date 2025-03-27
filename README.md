@@ -34,5 +34,3 @@ Click Save to store the note.
 
 Click Delete to remove a note.
 
-🚀 Live Demo
-Check out the live version: Easy Notes
